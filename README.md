@@ -15,7 +15,7 @@
 💾 Through Github create a clone of the repository. Once cloned to your local computer, in the terminal, run npm install. Load the seedDB.sql and the schema.sql into MySQLWorkbench. Once the packages have been installed and MySQLWorkbench is running, run node server.js in the terminal. Prompts should appear automatically after.
 ## Usage
 💻 To manage employees and businesses, for the purpose of updating and managing business related items and company workers. Users are prompted for their desired action which can be: Viewing all employees, adding an employee, and updating employee roles.
-![img src="./Assets/employee-tracker.gif"]
+<img src="Assets/employee-tracker.gif">
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
